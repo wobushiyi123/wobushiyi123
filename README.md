@@ -26,7 +26,7 @@
 <!-- 访客计数器 -->
 <p> 
   <img src="https://komarev.com/ghpvc/?username=wobushiyi123&label=主页访问量&color=36BCF7&style=flat-square" alt="访客计数" /> 
-  <img src="https://img.shields.io/github/followers/wobushiyi123?label=关注者&style=social" alt="关注者" />
+  <img src="https://img.shields.io/github/followers/wobushiyi123?style=flat-square&color=36BCF7" alt="关注者" />
 </p>
 
 <!-- 社交媒体徽章 -->
@@ -46,11 +46,11 @@
 <div align="center">
 
 <!-- GitHub 统计卡片 -->
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=wobushiyi123&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wobushiyi123&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages"/>
+<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=wobushiyi123&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats"/>
+<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=wobushiyi123&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages"/>
 
 <!-- 连续提交天数 -->
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=wobushiyi123&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+<img height="180em" src="https://github-readme-streak-stats-eight.vercel.app/?user=wobushiyi123&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 
 </div>
 
@@ -137,7 +137,7 @@
 ## 🏆 GitHub 成就 / Trophies
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=wobushiyi123&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=2&column=4" alt="Trophies"/>
+  <img src="https://github-profile-trophy.0n0w0.vercel.app/?username=wobushiyi123&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=2&column=4" alt="Trophies"/>
 </div>
 
 ---
